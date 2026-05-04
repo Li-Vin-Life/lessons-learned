@@ -16,7 +16,7 @@ The goal is not to provide reusable code, but to showcase:
 - reflections are honest and iterative
 
 ## Entries
-- projects/digitalize-photos.md
+- [Digitalize Photos](projects/digitalize-photos.md)
 
 ## About me
 
