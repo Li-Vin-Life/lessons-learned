@@ -15,6 +15,9 @@ The goal is not to provide reusable code, but to showcase:
 - code snippets are illustrative, not production-ready
 - reflections are honest and iterative
 
+## Entries
+- projects/digitalize-photos.md
+
 ## About me
 
 
